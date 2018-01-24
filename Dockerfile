@@ -1,4 +1,4 @@
-FROM node:8-alpine@sha256:b1e1f024dccf7058d2f55b21d6bf65c9cb932ba7bee2a24eca08ddb7c654312b
+FROM node:8@sha256:6054aa20c5b7d198524d9bd56c7b2d4fde046b6825e8261ccbf441444a5f4d39
 
 LABEL maintainer "Michael Brunton-Spall <michael@brunton-spall.co.uk>"
 LABEL uk.co.brunton-spall.version "0.0.1-beta"
